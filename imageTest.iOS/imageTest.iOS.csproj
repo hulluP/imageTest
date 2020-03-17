@@ -132,4 +132,7 @@
       <Name>imageTest</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default.png" />
+  </ItemGroup>
 </Project>

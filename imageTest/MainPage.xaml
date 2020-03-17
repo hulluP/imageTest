@@ -3,5 +3,7 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Image Source="camera.png" WidthRequest="60" HeightRequest="60" />
+        <Image Source="Default.png" WidthRequest="60" HeightRequest="60" />
     </StackLayout>
 </ContentPage>
